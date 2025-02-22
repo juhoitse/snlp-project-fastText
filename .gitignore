@@ -20,6 +20,8 @@
 *.tar
 *.zip
 *.csv
+*.tsv
+*.pth
 
 # Logs and databases #
 ######################
